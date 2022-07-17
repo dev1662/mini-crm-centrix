@@ -8,3 +8,6 @@ How to run the project:
 6. Run php artisan db:seed.
 7. Run php artisan storage:link.
 8. Run php artisan serve.
+9. Go to url: http://localhost:8000/login
+
+<p align="center">FINISH</p>
